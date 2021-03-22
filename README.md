@@ -1,2 +1,2 @@
 # TES-token
-contract
+https://tes-token.com/
